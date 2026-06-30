@@ -1,1 +1,42 @@
+# Task 16 – Troubleshooting
 
+## Project
+
+Smart Library Request Workflow in ServiceNow
+
+## Description
+
+This task involved identifying, testing, and resolving configuration issues in the Smart Library Request Workflow application.
+
+## Troubleshooting Areas
+
+- Flow Execution & Logs
+- Reference Qualifier
+- UI Policy
+- Access Control Lists (ACLs)
+- Reports
+
+## Issues Resolved
+
+- Verified Borrow Request Approval Flow execution.
+- Fixed Book Reference Qualifier.
+- Validated Return Date UI Policy.
+- Corrected Borrow Request ACL permissions.
+- Ensured Most Borrowed Books report counted only approved requests.
+
+## Testing
+
+All components were retested after applying fixes and passed successfully.
+
+## Technologies Used
+
+- ServiceNow
+- Flow Designer
+- Access Control Lists (ACLs)
+- UI Policies
+- Reports
+- Reference Qualifiers
+
+## Status
+
+Completed
