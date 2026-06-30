@@ -1,1 +1,109 @@
+# Smart Library Request Workflow in ServiceNow
 
+## Task 4 – Execution Roadmap
+
+### Project Overview
+
+The Smart Library Request Workflow is a ServiceNow-based application developed to automate library operations such as book management, borrow request processing, workflow approvals, role-based access control, and reporting.
+
+This roadmap outlines the complete implementation plan for developing, testing, and deploying the application.
+
+---
+
+## Project Phases
+
+### Phase 1 – Requirement Analysis & Planning
+
+- Task 1: Business Objectives
+- Task 2: Functional Scope
+- Task 3: Stakeholder Mapping
+- Task 4: Execution Roadmap
+
+---
+
+### Phase 2 – Backend Development & Configuration
+
+- Task 5: Creation of Roles
+- Task 6: Create Book Table
+- Task 7: Create Borrow Request Table
+- Task 8: Add Fields to Book Table
+- Task 9: Add Fields to Borrow Request Table
+- Task 10: Configure Reference Qualifier
+
+---
+
+### Phase 3 – Development
+
+- Task 11: Create Flow in Flow Designer
+- Task 12: Create UI Policy
+
+---
+
+### Phase 4 – Data Migration, Testing & Security
+
+- Task 13: Configure Access Control for Book Table
+- Task 14: Configure Access Control for Borrow Request Table
+- Task 15: Create Report (Most Borrowed Books)
+
+---
+
+### Phase 5 – Deployment, Documentation & Final Presentation
+
+- Task 16: Troubleshooting
+- Task 17: Adherence to Timelines
+- Task 18: Innovation
+- Task 19: Technical Blueprint Documentation
+- Task 20: Setup Manual Documentation
+- Task 21: Project Demo Video Planning
+- Task 22: Visual Demonstration
+- Task 23: Explanation Clarity
+
+---
+
+### Phase 6 – Project Closure
+
+- Task 24: Project Conclusion
+
+---
+
+## Technologies Used
+
+- ServiceNow
+- Flow Designer
+- Workflow Management
+- Access Control Lists (ACL)
+- Users, Groups & Roles
+- Reports & Dashboards
+- UI Policies
+- Reference Qualifiers
+
+---
+
+## Expected Outcome
+
+The completed Smart Library Request Workflow application will:
+
+- Automate library management.
+- Improve book tracking.
+- Reduce manual effort.
+- Implement secure role-based access.
+- Generate insightful reports.
+- Enhance the experience of students and librarians.
+
+---
+
+## Project Status
+
+Task 4 – Execution Roadmap Completed
+
+Project Progress: 4 / 24 Tasks Completed
+
+---
+
+## Author
+
+SmartBridge Internship
+
+Domain: ServiceNow
+
+Project: Smart Library Request Workflow
