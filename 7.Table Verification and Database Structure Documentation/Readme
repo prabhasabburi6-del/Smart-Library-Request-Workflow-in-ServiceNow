@@ -1,1 +1,31 @@
+# Task 7 – Table Verification and Database Structure
 
+## Project
+Smart Library Request Workflow in ServiceNow
+
+## Description
+
+This task verifies the successful creation of the Book and Borrow Request tables and confirms that the database structure is ready for further development.
+
+## Verification Performed
+
+- Verified Book table (u_book)
+- Verified Borrow Request table (u_borrow_request)
+- Confirmed table names
+- Confirmed tables are active
+- Verified database structure
+
+## Expected Outcome
+
+The application database is validated and prepared for adding fields, relationships, and workflow configurations.
+
+## Technologies Used
+
+- ServiceNow
+- System Definition
+- Custom Tables
+- Database Verification
+
+## Status
+
+Completed
