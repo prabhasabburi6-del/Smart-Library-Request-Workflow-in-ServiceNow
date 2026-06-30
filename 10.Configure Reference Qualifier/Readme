@@ -1,1 +1,44 @@
+# Task 10 – Configure Reference Qualifier
 
+## Project
+
+Smart Library Request Workflow in ServiceNow
+
+## Description
+
+This task configures a Reference Qualifier on the Book reference field in the Borrow Request table. The qualifier filters the available books by displaying only those whose status is **Available**.
+
+## Configuration
+
+Reference Field:
+- Book
+
+Qualifier Type:
+- Simple
+
+Condition:
+- Status is Available
+
+## Steps Performed
+
+1. Opened the Borrow Request table.
+2. Opened the Book reference field.
+3. Enabled Advanced View.
+4. Configured the Reference Qualifier.
+5. Set the condition to **Status = Available**.
+6. Verified that only available books appear in the lookup.
+
+## Expected Outcome
+
+Students can request only books that are currently available, preventing requests for books that have already been issued or marked as lost.
+
+## Technologies Used
+
+- ServiceNow
+- Dictionary Entries
+- Reference Fields
+- Reference Qualifier
+
+## Status
+
+Completed
