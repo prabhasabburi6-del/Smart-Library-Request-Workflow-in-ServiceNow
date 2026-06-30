@@ -69,8 +69,7 @@ Before creating the report, ensure that:
 3. Click **Next** to move to the Type tab.
 
 #### Figure 2: Creating the Most Borrowed Books report
-![ServiceNow Report Data Panel Configuration](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/servicenow_report_creation_config_1782834850419.jpg)
-
+file:///c%3A/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/servicenow_report_creation_config_1782834850419.jpg
 ---
 
 ### Step 3 – Select Report Type
