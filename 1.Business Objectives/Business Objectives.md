@@ -11,7 +11,8 @@ The **Smart Library Request Workflow** aims to automate and streamline these ope
 The system is divided into two primary environments: the request fulfillment engine in ServiceNow, and the core inventory and member tracker in the Prism Library Management System.
 
 #### Figure 1: Conceptual illustration of an automated Smart Library Request Workflow in ServiceNow
-![ServiceNow Service Catalog Request Workflow](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/media__1782810909775.png)
+<img width="1024" height="411" alt="media__1782810909775" src="https://github.com/user-attachments/assets/6e6b602f-49b1-4bd1-b979-8995c7c76554" />
+
 
 This workflow represents the ServiceNow Service Catalog Request execution model:
 - **Begin State**: The workflow begins immediately upon a student submitting a library request through the Service Catalog.
@@ -24,7 +25,8 @@ This workflow represents the ServiceNow Service Catalog Request execution model:
 ---
 
 #### Figure 2: Prism Library Management System Modular Structure
-![Prism Library Management System Modules](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/media__1782810920068.png)
+<img width="1024" height="593" alt="media__1782810920068" src="https://github.com/user-attachments/assets/cb3cb5d0-4be3-4395-95be-340b29a3b7b8" />
+
 
 The back-end and operations management are handled by the **Prism Library Management System**, which is structured into five distinct operational modules:
 1. **Member Management**:
@@ -61,7 +63,8 @@ The back-end and operations management are handled by the **Prism Library Manage
 To illustrate how a student interacts with the system, the activity diagram below details the step-by-step logic for borrowing and returning physical books.
 
 #### Figure 3: Borrowing and Returning Activity Diagram
-![Borrowing and Returning Activity Diagram](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/media__1782810932240.png)
+<img width="1024" height="676" alt="media__1782810932240" src="https://github.com/user-attachments/assets/e68815a4-929c-491a-b092-25b7d009933f" />
+
 
 The system distinguishes requests based on transaction types:
 - **Borrowing Flow**:
