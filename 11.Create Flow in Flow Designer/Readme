@@ -1,1 +1,37 @@
+# Task 11 – Create Flow in Flow Designer
 
+## Project
+
+Smart Library Request Workflow in ServiceNow
+
+## Description
+
+This task automates the borrow request approval process using ServiceNow Flow Designer.
+
+## Flow Name
+
+Borrow Request Approval Flow
+
+## Flow Process
+
+1. Borrow Request is created with Status = Requested.
+2. Flow is triggered automatically.
+3. Approval request is sent to the Librarian.
+4. If approved:
+   - Book status changes to Issued.
+   - Borrow Request status changes to Approved.
+   - Student receives an email notification.
+5. If rejected:
+   - Borrow Request status changes to Rejected.
+
+## Technologies Used
+
+- ServiceNow
+- Flow Designer
+- Update Record Action
+- Ask for Approval
+- Send Email Notification
+
+## Status
+
+Completed
