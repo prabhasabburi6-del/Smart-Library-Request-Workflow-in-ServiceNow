@@ -1,1 +1,33 @@
+# Task 1 – Business Objectives
 
+## Project
+Smart Library Request Workflow in ServiceNow
+
+## Description
+This task defines the business objectives for developing a Smart Library Request Workflow using the ServiceNow platform. The project focuses on automating library operations, improving book tracking, enhancing user experience, implementing secure role-based access, and generating reports for better decision-making.
+
+## Objectives
+- Automate library operations
+- Improve book tracking
+- Enhance student experience
+- Increase librarian productivity
+- Implement role-based access control
+- Improve transparency
+- Reduce manual errors
+- Generate reports and analytics
+- Improve resource utilization
+- Support digital transformation
+
+## Expected Outcome
+A clear understanding of the project's business goals that will guide the design, development, testing, and deployment phases of the Smart Library Request Workflow.
+
+## Technologies
+- ServiceNow
+- Flow Designer
+- Workflow Management
+- Access Control Lists (ACL)
+- Users, Groups & Roles
+- Reporting
+
+## Status
+Completed
