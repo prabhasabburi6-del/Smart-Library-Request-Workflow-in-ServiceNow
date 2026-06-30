@@ -1,4 +1,3 @@
-<img width="1376" height="768" alt="1" src="https://github.com/user-attachments/assets/9039d877-e76f-40d8-b048-21136477c0e3" /># Smart Library Request Workflow in ServiceNow
 ## Section 15: Create Report – Most Borrowed Books Documentation
 
 ## 1. Objective
