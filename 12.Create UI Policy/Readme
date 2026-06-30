@@ -1,1 +1,40 @@
+# Task 12 – Create UI Policy
 
+## Project
+
+Smart Library Request Workflow in ServiceNow
+
+## Description
+
+This task creates a UI Policy that makes the **Return Date** field mandatory and visible whenever the Borrow Request status is **Issued**.
+
+## UI Policy Details
+
+- **Table:** Borrow Request (u_borrow_request)
+- **Condition:** Status = Issued
+- **Field:** Return Date
+- **Mandatory:** True
+- **Visible:** True
+
+## Steps Performed
+
+1. Opened System UI → UI Policies.
+2. Created a new UI Policy.
+3. Configured the condition: Status = Issued.
+4. Added a UI Policy Action for the Return Date field.
+5. Set Return Date as mandatory and visible.
+6. Tested the UI Policy.
+
+## Expected Outcome
+
+When a borrow request is marked as **Issued**, the Return Date field becomes visible and mandatory, ensuring complete borrowing records.
+
+## Technologies Used
+
+- ServiceNow
+- UI Policies
+- UI Policy Actions
+
+## Status
+
+Completed
