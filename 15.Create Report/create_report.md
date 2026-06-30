@@ -1,4 +1,4 @@
-# Smart Library Request Workflow in ServiceNow
+<img width="1376" height="768" alt="1" src="https://github.com/user-attachments/assets/9039d877-e76f-40d8-b048-21136477c0e3" /># Smart Library Request Workflow in ServiceNow
 ## Section 15: Create Report – Most Borrowed Books Documentation
 
 ## 1. Objective
@@ -69,7 +69,8 @@ Before creating the report, ensure that:
 3. Click **Next** to move to the Type tab.
 
 #### Figure 2: Creating the Most Borrowed Books report
-file:///c%3A/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/servicenow_report_creation_config_1782834850419.jpg
+<img width="1376" height="768" alt="1" src="https://github.com/user-attachments/assets/af01b85c-3154-4c0f-91d5-cb5ae4c51377" />
+
 ---
 
 ### Step 3 – Select Report Type
@@ -93,7 +94,8 @@ file:///c%3A/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02
 2. The bar chart generates a layout of checked-out books ranked by borrow counts.
 
 #### Figure 5: Preview of the Most Borrowed Books report
-![ServiceNow Most Borrowed Books Bar Chart Preview](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/servicenow_most_borrowed_books_report_1782834870049.jpg)
+<img width="1376" height="768" alt="2" src="https://github.com/user-attachments/assets/93193a65-f52a-43af-ad8a-4094db9e7af1" />
+
 
 ---
 
@@ -113,7 +115,8 @@ file:///c%3A/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02
 5. Click **OK** and then click **Save**.
 
 #### Figure 7: Sharing the report with Student and Librarian roles
-![ServiceNow Report Sharing Settings](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/servicenow_report_sharing_1782834885789.jpg)
+<img width="1376" height="768" alt="3" src="https://github.com/user-attachments/assets/73b9f698-7b3d-4630-89e1-187f91fbce63" />
+
 
 ---
 
