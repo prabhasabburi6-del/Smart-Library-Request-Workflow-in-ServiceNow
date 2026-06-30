@@ -1,1 +1,47 @@
+# Task 8 – Add Fields to Book Table
 
+## Project
+
+Smart Library Request Workflow in ServiceNow
+
+## Description
+
+This task configures the Book (u_book) table by adding the required fields needed to maintain library book information.
+
+## Fields Added
+
+- Title (String)
+- Author (String)
+- ISBN (String)
+- Status (Choice)
+
+## Status Choices
+
+- Available (Default)
+- Issued
+- Lost
+
+## Steps Performed
+
+1. Opened the Book table.
+2. Accessed the Columns (Dictionary) related list.
+3. Added Title, Author, ISBN, and Status fields.
+4. Configured Status as a Choice field.
+5. Added Available, Issued, and Lost values.
+6. Set Available as the default value.
+7. Verified all fields on the Book form.
+
+## Expected Outcome
+
+The Book table now contains all required fields for managing library books and tracking their availability.
+
+## Technologies Used
+
+- ServiceNow
+- System Definition
+- Dictionary Entries
+- Choice Fields
+
+## Status
+
+Completed
