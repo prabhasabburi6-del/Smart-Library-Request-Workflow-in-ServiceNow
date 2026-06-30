@@ -1,1 +1,33 @@
+# Task 3 – Stakeholder Mapping
 
+## Project
+Smart Library Request Workflow in ServiceNow
+
+## Description
+This task identifies the stakeholders involved in the Smart Library Request Workflow and defines their roles, responsibilities, expectations, and interactions with the system.
+
+## Stakeholders
+- Students
+- Librarians
+- System Administrators
+- Management / Faculty
+- IT Support Team
+
+## Objectives
+- Define stakeholder roles
+- Improve communication
+- Clarify responsibilities
+- Support effective collaboration
+- Ensure successful project implementation
+
+## Expected Outcome
+A clear stakeholder map that helps in planning, communication, system development, and long-term maintenance.
+
+## Technologies
+- ServiceNow
+- Workflow Management
+- Access Control Lists (ACL)
+- Reporting
+
+## Status
+Completed
