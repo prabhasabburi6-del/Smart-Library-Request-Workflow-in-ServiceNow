@@ -1,1 +1,50 @@
+# Task 9 – Add Fields to Borrow Request Table
 
+## Project
+
+Smart Library Request Workflow in ServiceNow
+
+## Description
+
+This task configures the Borrow Request (u_borrow_request) table by adding the fields required to manage book borrowing requests.
+
+## Fields Added
+
+- Requested By (Reference → User [sys_user])
+- Book (Reference → Book [u_book])
+- Request Date (Date/Time)
+- Status (Choice)
+
+## Status Choices
+
+- Requested (Default)
+- Approved
+- Rejected
+- Returned
+
+## Steps Performed
+
+1. Opened the Borrow Request table.
+2. Added Requested By reference field.
+3. Added Book reference field.
+4. Added Request Date field.
+5. Added Status choice field.
+6. Configured Status choices.
+7. Set Requested as the default value.
+8. Verified all fields on the Borrow Request form.
+
+## Expected Outcome
+
+The Borrow Request table is fully configured to store, manage, and track student borrowing requests.
+
+## Technologies Used
+
+- ServiceNow
+- System Definition
+- Dictionary Entries
+- Reference Fields
+- Choice Fields
+
+## Status
+
+Completed
