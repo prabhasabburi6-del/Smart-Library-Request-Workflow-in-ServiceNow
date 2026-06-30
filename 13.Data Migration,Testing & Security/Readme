@@ -1,1 +1,40 @@
+# Task 13 – Access Control for Book Table
 
+## Project
+
+Smart Library Request Workflow in ServiceNow
+
+## Description
+
+This task configures Access Control Lists (ACLs) for the Book table to implement role-based security.
+
+## ACL Configuration
+
+### Read
+- Student
+- Librarian
+
+### Create
+- Librarian
+
+### Write
+- Librarian
+
+### Delete
+- Librarian
+
+## Testing
+
+- Verified Student has read-only access.
+- Verified Librarian has full CRUD access.
+- Verified unauthorized users cannot modify book records.
+
+## Technologies Used
+
+- ServiceNow
+- Access Control Lists (ACL)
+- Role-Based Access Control (RBAC)
+
+## Status
+
+Completed
