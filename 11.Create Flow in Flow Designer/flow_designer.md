@@ -1,4 +1,4 @@
-# Smart Library Request Workflow in ServiceNow
+# Smart Library Request Workflow in ServiceNowEnlarged Mermaid diagram
 ## Section 11: Create Flow in Flow Designer Documentation
 
 ## 1. Objective
