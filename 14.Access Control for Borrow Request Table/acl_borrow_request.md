@@ -72,7 +72,7 @@ Before configuring ACLs, ensure that:
 5. Click **Submit**.
 
 #### Figure 2: Create ACL allowing Students to create borrow requests
-![ServiceNow Borrow Request Create ACL](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/servicenow_borrow_request_create_acl_1782834434011.jpg)
+<img width="1376" height="768" alt="servicenow_borrow_request_create_acl_1782834434011" src="https://github.com/user-attachments/assets/d61cebad-7802-4693-a9a8-1db9eec42a68" />
 
 ---
 
@@ -171,7 +171,8 @@ Access checks are tested via **Impersonate User** on a PDI sandbox environment:
 | **7** | Librarian clicks "Delete" | Record is removed and user is redirected. | Success | ✔ Pass |
 
 #### Figure 6: Testing Borrow Request ACLs through user impersonation
-![ServiceNow Student Read-Only View of Borrow Request](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/servicenow_borrow_request_student_view_1782834455057.jpg)
+<img width="1376" height="768" alt="servicenow_borrow_request_student_view_1782834455057" src="https://github.com/user-attachments/assets/41cf3948-b2f6-4bc8-8034-5d786c5d3144" />
+
 
 ---
 
