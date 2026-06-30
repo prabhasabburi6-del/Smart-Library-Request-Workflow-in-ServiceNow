@@ -1,1 +1,46 @@
+# Task 15 – Create Report
 
+## Project
+
+Smart Library Request Workflow in ServiceNow
+
+## Description
+
+This task creates a ServiceNow report to identify the most borrowed books using approved borrow requests.
+
+## Report Configuration
+
+- **Report Name:** Most Borrowed Books
+- **Source Type:** Table
+- **Table:** Borrow Request (u_borrow_request)
+- **Report Type:** Bar Chart
+- **Group By:** Book
+- **Aggregate:** Count
+- **Filter:** Status = Approved
+
+## Steps Performed
+
+1. Opened Reports → View / Run.
+2. Created a new report.
+3. Selected Borrow Request table.
+4. Configured Bar Chart.
+5. Grouped by Book.
+6. Applied Status = Approved filter.
+7. Previewed and saved the report.
+8. Shared the report with Student and Librarian roles.
+
+## Expected Outcome
+
+The report displays the most borrowed books based on approved borrow requests and provides visual insights into library usage.
+
+## Technologies Used
+
+- ServiceNow
+- Reports
+- Bar Chart
+- Aggregation
+- Filtering
+
+## Status
+
+Completed
