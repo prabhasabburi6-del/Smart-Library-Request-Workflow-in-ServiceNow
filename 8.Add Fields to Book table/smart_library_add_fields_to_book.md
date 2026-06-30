@@ -141,7 +141,8 @@ Before performing this task, ensure that:
 5. Click **Update**.
 
 #### Figure 4: Status Choice values configured in ServiceNow
-![ServiceNow Status Choices Configurations](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/servicenow_status_choices_config_1782821027038.jpg)
+<img width="1376" height="768" alt="servicenow_status_choices_config_1782821027038" src="https://github.com/user-attachments/assets/c7cd1407-4275-4673-bcb9-597fc031e21c" />
+
 
 ---
 
@@ -150,7 +151,7 @@ Before performing this task, ensure that:
 2. Check that the new fields appear on the form.
 
 #### Figure 5: Book form displaying all configured fields in ServiceNow UI
-![ServiceNow Completed Book Form Screenshot](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/servicenow_completed_book_form_1782820975182.jpg)
+<img width="1376" height="768" alt="servicenow_completed_book_form_1782820975182" src="https://github.com/user-attachments/assets/a8466eac-79ae-4e86-9b49-26795ee86225" />
 
 ---
 
