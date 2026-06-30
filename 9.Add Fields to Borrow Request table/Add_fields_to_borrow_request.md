@@ -158,7 +158,7 @@ Before performing this task, ensure that:
 5. Click **Update**.
 
 #### Figure 5: Status choice values configured for the Borrow Request table
-![ServiceNow Borrow Request Status Choice Configurations](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/servicenow_borrow_request_choices_1782821583080.jpg)
+<img width="1376" height="768" alt="5" src="https://github.com/user-attachments/assets/313d6163-3049-434a-9d85-f0219b9803b4" />
 
 ---
 
@@ -167,7 +167,7 @@ Before performing this task, ensure that:
 2. Check that the new fields are placed correctly on the form.
 
 #### Figure 6: Completed Borrow Request form view in ServiceNow
-![ServiceNow Completed Borrow Request Form View](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/servicenow_completed_borrow_request_form_1782821559877.jpg)
+<img width="1376" height="768" alt="6" src="https://github.com/user-attachments/assets/5ba1230b-38f4-4215-b611-598e6dc0c91a" />
 
 ---
 
