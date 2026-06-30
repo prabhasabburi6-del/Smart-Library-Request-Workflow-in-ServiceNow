@@ -1,1 +1,34 @@
+# Task 5 – Creation of Roles
 
+## Project
+Smart Library Request Workflow in ServiceNow
+
+## Description
+This task focuses on creating custom user roles required for the Smart Library Request Workflow application. Two roles, **student** and **librarian**, are created to implement role-based access control.
+
+## Steps Performed
+
+1. Opened User Administration → Roles.
+2. Created the **librarian** role.
+3. Created the **student** role.
+4. Verified that both roles were successfully added.
+
+## Roles
+
+- student
+- librarian
+
+## Expected Outcome
+
+The application now supports role-based security, allowing different users to access only the features relevant to their responsibilities.
+
+## Technologies Used
+
+- ServiceNow
+- User Administration
+- Roles
+- Role-Based Access Control (RBAC)
+
+## Status
+
+Completed
