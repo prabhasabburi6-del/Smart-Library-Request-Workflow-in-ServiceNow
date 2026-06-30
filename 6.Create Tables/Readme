@@ -1,1 +1,35 @@
+# Task 6 – Create Tables
 
+## Project
+Smart Library Request Workflow in ServiceNow
+
+## Description
+
+This task involves creating the two primary custom tables required for the Smart Library Request Workflow application.
+
+## Tables Created
+
+- Book (u_book)
+- Borrow Request (u_borrow_request)
+
+## Steps Performed
+
+1. Opened System Definition → Tables.
+2. Created the Book table.
+3. Created the Borrow Request table.
+4. Verified both tables in the Tables list.
+
+## Expected Outcome
+
+The application now contains the core database tables required to store library books and borrowing requests.
+
+## Technologies Used
+
+- ServiceNow
+- System Definition
+- Custom Tables
+- Database Design
+
+## Status
+
+Completed
