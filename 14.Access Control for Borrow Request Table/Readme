@@ -1,1 +1,41 @@
+# Task 14 – Access Control for Borrow Request Table
 
+## Project
+
+Smart Library Request Workflow in ServiceNow
+
+## Description
+
+This task configures Access Control Lists (ACLs) for the Borrow Request table to implement role-based permissions.
+
+## ACL Configuration
+
+### Create
+- Student
+
+### Read
+- Student
+- Librarian
+
+### Write
+- Librarian
+
+### Delete
+- Librarian
+
+## Testing
+
+- Verified Student can create borrow requests.
+- Verified Student can read borrow requests.
+- Verified Student cannot update or delete requests.
+- Verified Librarian can read, update, and delete requests.
+
+## Technologies Used
+
+- ServiceNow
+- Access Control Lists (ACL)
+- Role-Based Access Control (RBAC)
+
+## Status
+
+Completed
