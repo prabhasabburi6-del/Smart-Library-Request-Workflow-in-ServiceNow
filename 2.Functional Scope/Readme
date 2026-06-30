@@ -1,1 +1,27 @@
+# Task 2 – Functional Scope
 
+## Project
+Smart Library Request Workflow in ServiceNow
+
+## Description
+This task defines the functional scope of the Smart Library Request Workflow. It outlines the major system modules, including book management, borrow request management, workflow automation, role-based access control, and reporting.
+
+## Functional Modules
+- Book Management
+- Borrow Request Management
+- Workflow Automation
+- Role-Based Access Control
+- Reporting and Analytics
+
+## Expected Outcome
+A clear understanding of the system's functionality and feature boundaries before implementation.
+
+## Technologies
+- ServiceNow
+- Flow Designer
+- Access Control Lists (ACL)
+- Workflow Management
+- Reporting
+
+## Status
+Completed
