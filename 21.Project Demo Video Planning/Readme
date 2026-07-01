@@ -1,1 +1,44 @@
+# Task 21 – Project Demo Video Planning
 
+## Project
+
+Smart Library Request Workflow in ServiceNow
+
+## Description
+
+This document outlines the demonstration plan for showcasing the Smart Library Request Workflow application.
+
+## Demo Includes
+
+- Student Login
+- Portal Walkthrough
+- Borrow Request Submission
+- Librarian Approval
+- Flow Designer Automation
+- Email Notification
+- Status Tracking
+- Book Return Process
+- Most Borrowed Books Report
+
+## Demo Roles
+
+### Student
+
+- Login
+- Submit Borrow Request
+- Track Request Status
+
+### Librarian
+
+- Approve Request
+- Issue Book
+- Return Book
+- View Reports
+
+## Estimated Duration
+
+Approximately **8 minutes**
+
+## Status
+
+Completed
