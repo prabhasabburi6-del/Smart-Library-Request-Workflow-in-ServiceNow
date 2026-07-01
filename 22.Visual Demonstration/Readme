@@ -1,1 +1,38 @@
+# Task 22 – Visual Demonstration
 
+## Project
+
+Smart Library Request Workflow in ServiceNow
+
+## Description
+
+This document provides a visual walkthrough of the Smart Library Request Workflow application using screenshots and annotations.
+
+## Demonstration Includes
+
+- Dynamic UI Policy behavior
+- Borrow Request approval timeline
+- Flow Designer execution logs
+- Borrow Request lifecycle
+- Book status tracking
+- Annotated screenshots
+
+## Validation
+
+- UI Policy verified
+- Flow execution successful
+- Approval workflow completed
+- Book status updated automatically
+- Borrow Request lifecycle validated
+
+## Technologies Used
+
+- ServiceNow
+- Flow Designer
+- UI Policies
+- Activity Timeline
+- Reports
+
+## Status
+
+Completed
