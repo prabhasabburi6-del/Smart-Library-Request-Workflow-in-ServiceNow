@@ -45,7 +45,8 @@ Before beginning the setup, ensure the following are active:
 3. Click **Submit** for each role.
 
 #### Figure 1: Custom roles registered in the ServiceNow user directory
-![ServiceNow Custom Roles Registry](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/servicenow_roles_list_view_1782821056814.jpg)
+<img width="1376" height="768" alt="10" src="https://github.com/user-attachments/assets/bdc69632-11a6-4442-abb2-c794e477160c" />
+
 
 ---
 
@@ -57,7 +58,8 @@ Before beginning the setup, ensure the following are active:
 3. Click **Submit**.
 
 #### Figure 2: Custom tables created and verified in the ServiceNow instance
-![ServiceNow Tables List View Verification](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/servicenow_tables_list_view_1782821000904.jpg)
+<img width="1376" height="768" alt="11" src="https://github.com/user-attachments/assets/0d78e548-9423-4a77-b820-cfea48509dd9" />
+
 
 ---
 
@@ -78,7 +80,7 @@ Open the respective table configurations and add columns via the **Columns** rel
 * `Status` (Choice): Set default as `Requested`. Add Choices: `Requested`, `Approved`, `Rejected`, `Issued`, `Returned`.
 
 #### Figure 3: Book form fields successfully added and laid out
-![ServiceNow Book Form Verified Layout](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/servicenow_completed_book_form_1782820975182.jpg)
+<img width="1376" height="768" alt="12" src="https://github.com/user-attachments/assets/065ed5f0-45e8-4e0e-b1a7-1bd4b1337894" />
 
 ---
 
@@ -176,7 +178,8 @@ Open the respective table configurations and add columns via the **Columns** rel
 | `u_borrow_request` | `write` / `delete` | `librarian` |
 
 #### Figure 7: Create ACL configured for student borrow requests
-![ServiceNow Borrow Request Table ACLs](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/servicenow_borrow_request_create_acl_1782834434011.jpg)
+<img width="1376" height="768" alt="13" src="https://github.com/user-attachments/assets/5a6fea53-cf43-4ef7-8d9c-dbd9458be2fb" />
+
 
 ---
 
@@ -193,7 +196,7 @@ Open the respective table configurations and add columns via the **Columns** rel
 3. Click **Save**.
 
 #### Figure 8: Most Borrowed Books bar chart visualization report
-![ServiceNow Most Borrowed Books Bar Chart Preview](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/servicenow_most_borrowed_books_report_1782834870049.jpg)
+<img width="1376" height="768" alt="14" src="https://github.com/user-attachments/assets/c068a699-0cf7-4ee7-9ac0-f17655f245f4" />
 
 ---
 
@@ -236,7 +239,8 @@ Impersonate a Student user again.
 2. Verify that the form is completely locked (read-only) and the "Save" and "Delete" actions are hidden.
 
 #### Figure 10: Impersonation test verifying read-only access for student accounts
-![ServiceNow Student View Under Impersonation](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/servicenow_borrow_request_student_view_1782834455057.jpg)
+<img width="1376" height="768" alt="15" src="https://github.com/user-attachments/assets/486425ce-ab5f-4242-b9d5-ec3caf50f4d0" />
+
 
 ---
 
