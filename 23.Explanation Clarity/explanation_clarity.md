@@ -68,7 +68,8 @@ Each application module is isolated into its own guide section:
 Every milestone in the guide features a captioned screenshot demonstrating the ServiceNow developer interface.
 
 #### Figure 2: Configuration of columns and choices for the Book inventory table
-![ServiceNow Book Form Verified Layout](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/servicenow_completed_book_form_1782820975182.jpg)
+<img width="1376" height="768" alt="21" src="https://github.com/user-attachments/assets/1e4ced0c-1be4-42ee-85fb-64b1d075eb7c" />
+
 
 ---
 
@@ -98,7 +99,8 @@ The transaction paths simulate typical actions in an academic library:
 * **Librarian**: Receives approvals ──> Executes task checkouts ──> Handles book returns ──> Reviews inventory dashboards.
 
 #### Figure 4: Automated approval workflow security rules
-![ServiceNow Borrow Request Table ACLs](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/servicenow_borrow_request_create_acl_1782834434011.jpg)
+<img width="1376" height="768" alt="22" src="https://github.com/user-attachments/assets/486d3daf-a13b-4ec4-ae9c-5bb2b0900793" />
+
 
 ---
 
@@ -109,7 +111,7 @@ Three key validation boundaries protect the system:
 3. **ACL Policies**: Restricts student access to edit fields after request submission.
 
 #### Figure 5: Enforced variable validations on the request form layout
-![ServiceNow Form Variable Validations](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/servicenow_completed_borrow_request_form_1782821559877.jpg)
+<img width="1376" height="768" alt="23" src="https://github.com/user-attachments/assets/6dc50f7c-20ac-4c28-b4fb-d0312488db6e" />
 
 ---
 
@@ -125,7 +127,8 @@ The validation suites check boundary configurations:
 | **5. Read-Only Lock**| Impersonate Student on active loan | Save and Delete controls are hidden; form is read-only | ✅ Passed |
 
 #### Figure 6: Successful user impersonation checking student permissions
-![ServiceNow Impersonated Student View Verification](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/servicenow_borrow_request_student_view_1782834455057.jpg)
+<img width="1376" height="768" alt="24" src="https://github.com/user-attachments/assets/2a8697c1-e412-47c5-ab2c-0a0fc0d6eecc" />
+
 
 ---
 
@@ -136,7 +139,8 @@ The application's low-code foundation allows for modular functional upgrades:
 * **Integrations**: REST API hooks exposing catalogs to external public library indexes.
 
 #### Figure 7: Reporting foundation supporting future dashboards
-![ServiceNow Analytics Reports Grouping](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/servicenow_most_borrowed_books_report_1782834870049.jpg)
+<img width="1376" height="768" alt="25" src="https://github.com/user-attachments/assets/58bf18ca-8471-40e7-86fd-0dc370fb96bc" />
+
 
 ---
 
