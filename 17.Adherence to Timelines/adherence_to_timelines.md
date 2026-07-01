@@ -35,7 +35,8 @@ User roles were created to implement Role-Based Access Control (RBAC) to separat
 * **Activities Completed**: Created Student role (`x_library.student`) and Librarian role (`x_library.librarian`), verified role registry.
 
 #### Figure 1: Student and Librarian roles successfully created and visible in the Roles list
-![ServiceNow Custom User Roles Verification](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/servicenow_roles_list_view_1782821056814.jpg)
+<img width="1376" height="768" alt="1" src="https://github.com/user-attachments/assets/9984c8d8-4568-4c1c-9766-250b1cfe0b40" />
+
 
 ---
 
@@ -44,7 +45,8 @@ Created the core database tables representing physical assets and transactions.
 * **Activities Completed**: Created Book (`u_book`) and Borrow Request (`u_borrow_request`) tables.
 
 #### Figure 2: Custom tables created successfully and visible in the System Definition list
-![ServiceNow Custom Tables List Verification](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/servicenow_tables_list_view_1782821000904.jpg)
+<img width="1376" height="768" alt="2" src="https://github.com/user-attachments/assets/709bd43e-94bb-4526-9ea4-717fa5f90b19" />
+
 
 ---
 
@@ -53,7 +55,8 @@ Configured essential dictionary entries and options on both tables.
 * **Activities Completed**: Added Title, Author, ISBN, and Status choice fields (Book table); Added Requested By, Book reference, Request Date, and Status choice fields (Borrow Request table).
 
 #### Figure 3: Required fields added to Book table and verified on new record form
-![ServiceNow Book Form Verified Layout](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/servicenow_completed_book_form_1782820975182.jpg)
+<img width="1376" height="768" alt="3" src="https://github.com/user-attachments/assets/3cc9adae-0cf7-45e1-a265-82689ba0080a" />
+
 
 ---
 
@@ -120,7 +123,8 @@ Applied table-level and column-level database security.
 * **Activities Completed**: Created Read, Create, Write, and Delete ACL records restricting book records and check-out tracking controls.
 
 #### Figure 7: Role-Based Access Control Create ACL for Borrow Request table
-![ServiceNow Borrow Request Table ACLs](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/servicenow_borrow_request_create_acl_1782834434011.jpg)
+<img width="1376" height="768" alt="4" src="https://github.com/user-attachments/assets/cbae13b5-8d22-4467-bea4-8d18b38d9187" />
+
 
 ---
 
@@ -129,7 +133,8 @@ Created live visual representations of checked-out inventory.
 * **Activities Completed**: Grouped approved borrowing requests by book to render a horizontal bar chart.
 
 #### Figure 8: Most Borrowed Books report preview
-![ServiceNow Most Borrowed Books Bar Chart Report](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/servicenow_most_borrowed_books_report_1782834870049.jpg)
+<img width="1376" height="768" alt="5" src="https://github.com/user-attachments/assets/ab288541-d06c-445f-9e61-bfa5739e79dd" />
+
 
 ---
 
@@ -138,7 +143,8 @@ Conducted comprehensive verification test suites using Student and Librarian per
 * **Activities Completed**: User impersonation testing, email logs verification, and boundary validation checks.
 
 #### Figure 9: Student view impersonation testing confirming read-only fields
-![ServiceNow Impersonated Student View Verification](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/servicenow_borrow_request_student_view_1782834455057.jpg)
+<img width="1376" height="768" alt="6" src="https://github.com/user-attachments/assets/44922e99-5778-4ea4-b1e7-42cf1aee7019" />
+
 
 ---
 
