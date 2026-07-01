@@ -1,1 +1,44 @@
+# Task 20 – Document Setup Manual
 
+## Project
+
+Smart Library Request Workflow in ServiceNow
+
+## Description
+
+This document provides a step-by-step guide for recreating the Smart Library Request Workflow application in a new ServiceNow Personal Developer Instance (PDI).
+
+## Setup Steps
+
+1. Create Roles
+2. Create Custom Tables
+3. Configure Table Fields
+4. Configure Reference Qualifier
+5. Create Flow Designer Workflow
+6. Configure UI Policy
+7. Configure Access Control Lists (ACLs)
+8. Create Reports
+9. Insert Test Data
+10. Validate the Complete Workflow
+
+## Validation
+
+- Borrow Request Approval Flow
+- Book Status Updates
+- Return Process
+- ACL Verification
+- UI Policy Validation
+- Report Generation
+
+## Technologies Used
+
+- ServiceNow
+- Flow Designer
+- UI Policies
+- Access Control Lists (ACLs)
+- Reports
+- Reference Qualifiers
+
+## Status
+
+Completed
