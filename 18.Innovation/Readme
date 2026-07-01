@@ -1,1 +1,40 @@
+# Task 18 – Innovation
 
+## Project
+
+Smart Library Request Workflow in ServiceNow
+
+## Description
+
+This task highlights the innovative features implemented to improve automation, usability, security, and scalability within the Smart Library Request Workflow application.
+
+## Innovations Implemented
+
+- End-to-End Automation using Flow Designer
+- Optimized Book Selection using Reference Qualifiers
+- Maintainable and Scalable design using ServiceNow out-of-the-box features
+- Dynamic UI using UI Policies
+- Role-Based Security using ACLs
+- Automated reporting for library insights
+
+## Benefits
+
+- Reduced manual work
+- Faster approvals
+- Improved data accuracy
+- Better user experience
+- Easy future enhancements
+- Secure access control
+
+## Technologies Used
+
+- ServiceNow
+- Flow Designer
+- UI Policies
+- Access Control Lists (ACLs)
+- Reference Qualifiers
+- Reports
+
+## Status
+
+Completed
