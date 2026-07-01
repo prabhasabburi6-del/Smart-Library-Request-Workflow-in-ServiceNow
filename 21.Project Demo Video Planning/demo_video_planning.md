@@ -100,7 +100,8 @@ The demonstration focuses on:
 3. Click **Submit**.
 
 #### Figure 3: Borrow Request form layout prior to submission
-![ServiceNow Completed Borrow Request Form View](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/servicenow_completed_borrow_request_form_1782821559877.jpg)
+<img width="1376" height="768" alt="99" src="https://github.com/user-attachments/assets/dc2db56b-8159-4b89-9c90-74d79dc9db94" />
+
 
 ---
 
@@ -191,7 +192,8 @@ The demonstration focuses on:
 3. Click **Run** to generate the bar chart showing aggregate metrics.
 
 #### Figure 8: Most Borrowed Books bar chart visualization report
-![ServiceNow Most Borrowed Books Bar Chart Preview](C:/Users/harik/.gemini/antigravity/brain/7bb71848-cec9-43d6-b8fd-89e02e62b9c9/servicenow_most_borrowed_books_report_1782834870049.jpg)
+<img width="1376" height="768" alt="88" src="https://github.com/user-attachments/assets/ce62350a-4850-4b2a-bec0-0f9f2c4b6802" />
+
 
 ---
 
